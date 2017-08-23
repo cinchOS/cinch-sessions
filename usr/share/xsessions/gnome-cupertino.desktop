@@ -1,9 +1,9 @@
 [Desktop Entry]
-Name=GNOME Classic
-Comment=This session logs you into GNOME Classic
-Exec=gnome-session-classic
+Name=GNOME Cupertino
+Comment=This session logs you into GNOME Cupertino
+Exec=gnome-session-cupertino
 TryExec=gnome-session
 Type=Application
-DesktopNames=GNOME-Classic;GNOME;
+DesktopNames=GNOME-Cupertino;GNOME;
 X-Ubuntu-Gettext-Domain=gnome-shell-extensions
 Name[en_US]=gnome-cupertino.desktop

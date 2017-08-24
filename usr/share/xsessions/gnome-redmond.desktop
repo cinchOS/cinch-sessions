@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=GNOME Redmond
+Comment=This session logs you into GNOME Redmond
+Exec=gnome-session-redmond
+TryExec=gnome-session
+Type=Application
+DesktopNames=GNOME-Redmond;GNOME;
+X-Ubuntu-Gettext-Domain=gnome-shell-extensions
+Name[en_US]=gnome-redmond.desktop

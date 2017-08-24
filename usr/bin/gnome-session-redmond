@@ -1,0 +1,2 @@
+#! /bin/sh
+env GNOME_SHELL_SESSION_MODE=redmond gnome-session --session gnome-redmond "$@"
